@@ -4,6 +4,7 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/Odev1.iml" filepath="$PROJECT_DIR$/Odev1.iml" />
       <module fileurl="file://$PROJECT_DIR$/Odev10/Odev10.iml" filepath="$PROJECT_DIR$/Odev10/Odev10.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Odev11/Odev11.iml" filepath="$PROJECT_DIR$/Odev11/Odev11.iml" />
       <module fileurl="file://$PROJECT_DIR$/Odev2/Odev2.iml" filepath="$PROJECT_DIR$/Odev2/Odev2.iml" />
       <module fileurl="file://$PROJECT_DIR$/Odev3/Odev3.iml" filepath="$PROJECT_DIR$/Odev3/Odev3.iml" />
       <module fileurl="file://$PROJECT_DIR$/Odev4/Odev4.iml" filepath="$PROJECT_DIR$/Odev4/Odev4.iml" />
